@@ -1,0 +1,4 @@
+[31-Aug-2016 16:33:20 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadomugugov/public_html/admin/manage_cms.php on line 33
+[31-Aug-2016 16:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadomugugov/public_html/admin/manage_cms.php:33) in /home/dadomugugov/public_html/admin/manage_cms.php on line 231
+[15-Sep-2016 12:22:20 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/news.pdf in /home/dadomugugov/public_html/admin/ajaxListingPanel.php on line 125
+[15-Sep-2016 12:31:41 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/?????? ?? ??????? ???? ?? ??(1).doc in /home/dadomugugov/public_html/admin/ajaxListingPanel.php on line 125

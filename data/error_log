@@ -1,0 +1,5 @@
+[31-Aug-2016 16:33:27 UTC] PHP Warning:  getimagesize(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomugugov/public_html/data/imager.php on line 17
+[31-Aug-2016 16:33:27 UTC] PHP Warning:  Division by zero in /home/dadomugugov/public_html/data/imager.php on line 30
+[31-Aug-2016 16:33:27 UTC] PHP Warning:  imagecreatefromjpeg(../pics/noimage.jpg): failed to open stream: No such file or directory in /home/dadomugugov/public_html/data/imager.php on line 61
+[31-Aug-2016 16:33:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/dadomugugov/public_html/data/imager.php on line 69
+[31-Aug-2016 16:33:27 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/dadomugugov/public_html/data/imager.php on line 105
